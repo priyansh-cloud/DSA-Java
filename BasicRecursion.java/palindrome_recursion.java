@@ -12,16 +12,13 @@ public class palindrome_recursion{
         if(arr[i] != arr[n-i-1]){
             return false;
         }
-        // int temp= arr[i];
-        // arr[i] = arr[n-i-1];
-        // arr[n-i-1]= temp;
 
         return f(i+1,n,arr);
 
     }
     public static void main(String[] args) {
 
-        int arr[] = {2,1,2,2};
+        int arr[] = {2,1,1,2};
         int n = arr.length;
         boolean ans = f(0,n,arr);
 
@@ -30,4 +27,3 @@ public class palindrome_recursion{
     }
 }
 
-// note : replace int arr[] --> String s for string values

@@ -24,3 +24,9 @@ public class palindrome_recursion_string {
         
     }
 }
+
+// note :
+//  Array 	   String
+//  arr[i]	   s.charAt(i)
+//  length	   length()
+//  mutable	   immutable
