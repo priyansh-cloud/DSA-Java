@@ -2,7 +2,7 @@ public class basic_array {
     
     public static void main(String[] args) {
 
-        // find the largest number
+        // find the largest number in the array
 
         int arr[] = {2,4,1,6,9};
 
