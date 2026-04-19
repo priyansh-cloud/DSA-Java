@@ -6,14 +6,23 @@ This repository tracks my progress, learnings, and consistency.
 📅 Progress So Far
 
 ✅ Completed Topics
+
 ✔️Basics of Java
+
 ✔️Patterns
+
 ✔️Basic Math Problems
+
 ✔️Recursion (Basics)
+
 ✔️Hashing
 
+
+
 🔄 Currently Learning
+
 😶‍🌫️Arrays
+
 
 🔄 Updates
 
