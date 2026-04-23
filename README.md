@@ -1,9 +1,9 @@
-🚀 DSA Journey in Java
+## 🚀 DSA Journey in Java
 
 Welcome to my Data Structures & Algorithms (DSA) journey using Java 💻
 This repository tracks my progress, learnings, and consistency.
 
-📅 Progress So Far
+# 📅 Progress So Far
 
 ✅ Completed Topics
 
@@ -19,11 +19,11 @@ This repository tracks my progress, learnings, and consistency.
 
 
 
-🔄 Currently Learning
+# 🔄 Currently Learning
 
 😶‍🌫️Arrays
 
 
-🔄 Updates
+# 🔄 Updates
 
 I’ll keep updating this README as I move to new topics and grow in my DSA journey 🚀
