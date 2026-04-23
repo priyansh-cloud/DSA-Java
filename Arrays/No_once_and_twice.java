@@ -5,7 +5,7 @@ public class No_once_and_twice {
         int num;
 
         // -------------------->  Brute 
-        // TC -> O(n2)
+        // TC -> O(n^2)
         // SC -> O(1)
         // for(int i = 0; i<arr.length; i++){
         //     num = arr[i];
