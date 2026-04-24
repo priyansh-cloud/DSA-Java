@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Union_of_two_sorted_arrays {
+public class Union_of_two_sorted_arrays_09 {
     public static void main(String[] args) {
 
         // ArrayList/ dynamic array --> used to resize array automatically

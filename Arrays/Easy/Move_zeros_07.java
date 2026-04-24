@@ -1,4 +1,4 @@
-public class Move_zeros {
+public class Move_zeros_07 {
     public static void main(String[] args) {
         
         int a[] = {1,0,2,3,2,0,0,4,5,1};

@@ -1,4 +1,4 @@
-public class Max_consecutive_ones {
+public class Max_consecutive_ones_13 {
     public static void main(String[] args) {
         int arr[] = {1,1,0,1,1,1,0,1,1};
         int maxi = 0;

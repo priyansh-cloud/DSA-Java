@@ -1,4 +1,4 @@
-public class basic_array {
+public class LargestNo_01 {
     
     public static void main(String[] args) {
 

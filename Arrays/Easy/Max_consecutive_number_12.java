@@ -1,4 +1,4 @@
-public class Max_consecutive_number {
+public class Max_consecutive_number_12 {
     public static void main(String[] args) {
         
         int arr[] = {1,1,2,3,3,4,4};

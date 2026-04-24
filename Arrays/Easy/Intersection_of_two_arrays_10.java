@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Intersection_of_two_arrays {
+public class Intersection_of_two_arrays_10 {
     public static void main(String[] args) {
         
         // Brute Force

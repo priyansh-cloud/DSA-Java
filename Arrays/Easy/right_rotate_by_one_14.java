@@ -1,4 +1,4 @@
-public class right_rotate_by_one {
+public class right_rotate_by_one_14 {
     public static void main(String[] args) {
         
          int arr[] = {1,2,3,4,5};

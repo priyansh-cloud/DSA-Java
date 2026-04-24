@@ -1,4 +1,4 @@
-public class Left_rotate_K_places {
+public class Left_rotate_K_places_06 {
     public static void main(String[] args) {
         
         int arr[] =  {1,2,3,4,5,6,7};

@@ -1,4 +1,4 @@
-public class Check_array_sorted {
+public class Check_array_sorted_03 {
     
     public static void main(String[] args) {
         

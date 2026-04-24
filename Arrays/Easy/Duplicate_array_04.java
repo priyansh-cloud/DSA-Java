@@ -1,4 +1,4 @@
-public class Duplicate_array {
+public class Duplicate_array_04 {
     
     public static void main(String[] args) {
         

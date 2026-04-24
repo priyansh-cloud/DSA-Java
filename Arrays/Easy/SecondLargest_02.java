@@ -1,4 +1,4 @@
-public class SecondLargest {
+public class SecondLargest_02 {
     public static void main(String[] args) {
         // 1st pass largest
         int arr[] = {1,2,4,7,7,5,6};

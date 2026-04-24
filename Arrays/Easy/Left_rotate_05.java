@@ -1,4 +1,4 @@
-public class Left_rotate {
+public class Left_rotate_05 {
     public static void main(String[] args) {
         
         int arr[] = {1,2,3,4,5};

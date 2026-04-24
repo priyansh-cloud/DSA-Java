@@ -1,4 +1,4 @@
-public class Find_missing_element {
+public class Find_missing_element_11 {
     public static void main(String[] args) {
         int arr[] = {1,2,4,5};
         int n = arr.length;
