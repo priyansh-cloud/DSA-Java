@@ -1,5 +1,7 @@
 public class Day21_Kadane_s_algo {
     public static void main(String[] args) {
+
+        // Kadane's Algorithm is the true essence of "Even if you are at your lowest point, remember you're still a competition to someone."
         
         // int[] arr = { -2, 1, -3, 4, -1, 2, 1, -5, 4 };
 
