@@ -74,6 +74,7 @@ public class Day21_Kadane_s_algo {
         int ans_end = -1; int ans_start = -1;
         for(int i = 0; i<arr.length; i++){
 
+            // Update starting index if sum is reset
             if( sum ==0){
                 start = i;
             }
@@ -93,7 +94,8 @@ public class Day21_Kadane_s_algo {
             }
             
         }
-
+            
+        // Printing the subarray
          for (int i = ans_start; i <= ans_end; i++) {
             System.out.print(arr[i] + " ");
         }
