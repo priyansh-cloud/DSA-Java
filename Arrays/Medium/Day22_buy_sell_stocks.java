@@ -7,7 +7,7 @@ public class Day22_buy_sell_stocks {
         
         
         for(int i = 1; i<prices.length; i++){
-            int cost = prices[i] - lowest;
+            int cost = prices[i] - lowest; 
             profit = Math.max( profit, cost );
             lowest = Math.min( lowest, prices[i]);
         }
