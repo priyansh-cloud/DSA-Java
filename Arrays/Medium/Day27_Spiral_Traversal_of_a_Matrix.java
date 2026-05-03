@@ -30,8 +30,9 @@ public class Day27_Spiral_Traversal_of_a_Matrix {
         
         // right =  left → right
         for(int i = left; i<= right; i++){
-            ans.add(matrix[top][i]);
-        }
+            ans.add(matrix[top][i]);  // matrix[row][column]
+        }     //                           first index → row       ||    row = top (fixed)
+       //------------------------------  second index → column     ||    column = i (changing)
         top++;
 
         // bottom = top → bottom
