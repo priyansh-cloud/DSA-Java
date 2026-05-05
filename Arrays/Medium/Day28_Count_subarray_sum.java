@@ -4,7 +4,7 @@ import java.util.*;
 public class Day28_Count_subarray_sum  {
     public static void main(String[] args) {
         
-        //              Brute : TC -> O(n^3) && SC O(1)
+        //              Brute : TC -> O(n^3) && SC -> O(1)
 
         // int[] arr = {3, 1, 2, 4};
         // int target = 6;
@@ -28,7 +28,7 @@ public class Day28_Count_subarray_sum  {
 
 
 
-         //              Better : TC -> O(n^2) && SC O(1)
+         //              Better : TC -> O(n^2) && SC -> O(1)
 
         //  int[] arr = {3, 1, 2, 4};
         //  int target = 6;
@@ -52,7 +52,7 @@ public class Day28_Count_subarray_sum  {
 
 
         //              Optimal [ Prefix sum => HashMap ]
-        //              TC -> O(n^2) && SC O(1)
+        //              TC -> O(n) && SC -> O(n)
 
         int[] arr = {3, 1, 2, 4};
         int target = 6;
