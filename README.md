@@ -17,11 +17,13 @@ This repository tracks my progress, learnings, and consistency.
 
 ✔️Hashing
 
+✔️Arrays
+
 
 
 # 🔄 Currently Learning
 
-😶‍🌫️Arrays
+😶‍🌫️ Binary Search
 
 
 # 🔄 Updates
