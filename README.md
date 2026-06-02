@@ -19,11 +19,13 @@ This repository tracks my progress, learnings, and consistency.
 
 ✔️Arrays
 
+✔️Binary Search
+
 
 
 # 🔄 Currently Learning
 
-😶‍🌫️ Binary Search
+😶‍🌫️ Strings
 
 
 # 🔄 Updates
