@@ -21,11 +21,13 @@ This repository tracks my progress, learnings, and consistency.
 
 ✔️Binary Search
 
+✔️Strings
+
 
 
 # 🔄 Currently Learning
 
-😶‍🌫️ Strings
+😶‍🌫️ Linked List
 
 
 # 🔄 Updates
