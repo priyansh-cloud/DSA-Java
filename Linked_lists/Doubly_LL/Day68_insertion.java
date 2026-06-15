@@ -41,6 +41,8 @@ public class Day68_insertion {
         return head;
     }
 
+    //!                 Insert Before Head
+
     public static Node InsertBeforeHead( Node head, int val ){
 
             Node newHead = new Node(val, head, null);
@@ -50,6 +52,7 @@ public class Day68_insertion {
 
     }
 
+    //!                 Insert Before Tail
     public static Node InsertBeforeTail( Node head, int val ){
 
         // edge case
@@ -75,6 +78,8 @@ public class Day68_insertion {
         return head;
     }
 
+    //!                 Insert Before kth Position
+    
     public static Node Insert_at_k( Node head, int val, int k ){
 
         // edge cases
